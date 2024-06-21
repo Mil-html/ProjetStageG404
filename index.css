@@ -1,5 +1,5 @@
 body{
-    background-image: url(/image/fondEcran.jpg);
+    background-image: url("./image/fondEcran.jpg");
     background-size: cover;
 
 }
